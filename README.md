@@ -1,3 +1,2 @@
 # recipes1
-Favourite recipes
-Edits
+Favourite recipes from around the world
